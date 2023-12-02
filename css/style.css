@@ -1,0 +1,37 @@
+/*
+	Begin of style
+ */
+
+
+
+#jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+.card img{
+	width: 200px;
+	display: block;
+	margin: auto;
+	height: 140px;
+}
+#about {
+	padding-top: 3rem;
+}
+
+
+
+#projects {
+	padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+
+#contact {
+	padding-top: 7rem;
+}
+
+
+/*
+	End of style
+ */
